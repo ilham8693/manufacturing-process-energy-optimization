@@ -206,9 +206,3 @@ opt = optimize_operating_setpoints(row)
 print('✅ All Physics, Power Quality, and Optimizer Tests Passed!')
 "
 ```
-
----
-
-## 📜 License
-
-This project is open-source under the [MIT License](LICENSE).
