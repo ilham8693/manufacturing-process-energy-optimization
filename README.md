@@ -6,7 +6,6 @@
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-Energy%20Surrogate-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Dataset: Kaggle](https://img.shields.io/badge/Dataset-Kaggle.com-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/)
 [![Standard: IEEE 141](https://img.shields.io/badge/Standard-IEEE%20141%20%2F%20EN%2050160-10b981)](https://standards.ieee.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 An industrial **Process Energy Optimization & Carbon Footprint Reduction Engine** designed for CNC, Lathe, and Milling machinery. This project bridges **First-Principles Electrical & Thermodynamic Engineering** (3-phase power quality, Specific Energy Consumption ($SEC$), voltage/current unbalance factors, and power factor correction) with **Constrained Non-Linear Optimization (SciPy L-BFGS-B)** and **Machine Learning Energy Surrogates** to discover optimal setpoints that minimize factory power draw and carbon emissions while strictly preserving production throughput.
 
